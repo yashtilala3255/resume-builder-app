@@ -1,57 +1,30 @@
-# 📄 Resume Builder Website  
+# Resume builder app
 
-A powerful and modern **Resume Builder web application** that helps users create professional resumes effortlessly.  
-Users can choose templates, customize designs, view resume scores, and download their resumes as PDF.  
+*Automatically synced with your [v0.app](https://v0.app) deployments*
 
----
+[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/yashs-projects-76bc6f1b/v0-resume-builder-app)
+[![Built with v0](https://img.shields.io/badge/Built%20with-v0.app-black?style=for-the-badge)](https://v0.app/chat/projects/gSyx7vdQ2ly)
 
-## ✨ Features  
+## Overview
 
-- 🎨 **Template Selection** – Choose from multiple professional resume templates.  
-- 🖌️ **Customization Options** – Change **theme color, font family, font size (pt), and layout styles**.  
-- 👤 **Profile Picture Support** – Upload, crop, and update profile picture.  
-- 📊 **Resume Scoring System** – Section-wise score for:  
-  - Profile Header  
-  - Professional Summary  
-  - Work Experience  
-  - Education  
-  - Skills  
-  - Projects  
-  - Certifications  
-  - Achievements  
-- ⚡ **Real-time Live Preview** – See instant changes while editing.  
-- 🔀 **Drag-and-Drop Layout** – Reorder resume sections easily.  
-- 💾 **Save Drafts** – Continue editing later.  
-- 📥 **Export as PDF** – Download fully formatted resumes.  
-- 🤖 *(Optional)* AI-powered suggestions for **content improvement & ATS optimization**.  
+This repository will stay in sync with your deployed chats on [v0.app](https://v0.app).
+Any changes you make to your deployed app will be automatically pushed to this repository from [v0.app](https://v0.app).
 
----
+## Deployment
 
-## 🛠️ Tech Stack  
+Your project is live at:
 
-- **Frontend:** React.js / Next.js  
-- **Styling:** Tailwind CSS + shadcn/ui  
-- **Backend:** Node.js / Express.js (or Laravel, if PHP used)  
-- **Database:** Supabase / PostgreSQL / MySQL  
-- **PDF Export:** jsPDF / React-to-PDF / Puppeteer  
-- **Deployment:** Vercel / Netlify / AWS  
+**[https://vercel.com/yashs-projects-76bc6f1b/v0-resume-builder-app](https://vercel.com/yashs-projects-76bc6f1b/v0-resume-builder-app)**
 
----
+## Build your app
 
-## project is live at:
-https://resume-builder-scalex.vercel.app/
+Continue building your app on:
 
----
+**[https://v0.app/chat/projects/gSyx7vdQ2ly](https://v0.app/chat/projects/gSyx7vdQ2ly)**
 
-## 📂 Project Structure  
+## How It Works
 
-```bash
-├── public/             # Static assets (logos, images, resume templates)
-├── src/                # Source code
-│   ├── components/     # Reusable UI components (forms, editors, preview, etc.)
-│   ├── pages/          # Application pages (Home, Builder, Templates, etc.)
-│   ├── styles/         # Tailwind / global styles
-│   ├── utils/          # Helpers (resume scoring, PDF export, etc.)
-│   └── App.js          # Main entry (if React)
-├── package.json        # Dependencies and scripts
-└── README.md           # Project documentation
+1. Create and modify your project using [v0.app](https://v0.app)
+2. Deploy your chats from the v0 interface
+3. Changes are automatically pushed to this repository
+4. Vercel deploys the latest version from this repository
